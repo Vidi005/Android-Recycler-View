@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sensor Mikrokontroler</string>
+    <string name="sensor_types">Tipe Sensor</string>
+    <string name="description">Deskripsi</string>
+    <string name="detail">Detail</string>
+    <string name="nama">Vidi Fitriansyah Hidarlan</string>
+    <string name="email">vidihidarlan@gmail.com</string>
+</resources>
